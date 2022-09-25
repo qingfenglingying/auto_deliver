@@ -23,4 +23,4 @@ jobs:
       - name: weixin
         run: |
           #python main.py
-          python print("hello world")
+          print("hello world")
