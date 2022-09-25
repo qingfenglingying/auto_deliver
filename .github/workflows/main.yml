@@ -23,5 +23,5 @@ jobs:
       - name: weixin
         run: |
           python3 test.py
-          python3 main.py
+          #python3 main.py
           #print("hello world")
