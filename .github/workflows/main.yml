@@ -20,6 +20,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip3 install -r requirements.txt
-      - name: weixin
-        run: |
-          python3 main.py
+      #- name: weixin
+       # run: |
+        #  python3 main.py
